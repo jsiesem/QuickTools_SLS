@@ -14,3 +14,6 @@ Create runner geometry below selected objects.
 ## LoadDimFile
 Button for quick access to file showing print-bed extents for eased positioning and verification.
 File can be located in shared folder (specified in LoadDimFile.cs) or at current document location.
+
+## AlignBottomToWorldZ
+Align selected geometry to Origin.Z
